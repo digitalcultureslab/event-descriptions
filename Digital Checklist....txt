@@ -1,0 +1,55 @@
+﻿Check IT Out!
+Checking digital research support for the humanities at your university
+
+Is your university providing good Information Technology support for research in the humanities? This checklist is designed to help researchers, computing staff, and administrators audit the support available. It is not complete, nor should all of the questions be answered in the positive; this list is designed to foster discussion and knowledge of what is available and supported. Know your organizational self – know your services.
+
+Digital Media Projects
+
+Can you get access to scanners to digitize texts, images, video or audio for a research project? Is there a lab set up where it is convenient to digitize materials?
+Can you get advice on best practices in digitization and copyright on digitized objects?
+Can you sign out decent audio/visual equipment for research purposes like a video recorder, lights, and tripod?
+Is there a multimedia server should you want to make digital audio or video available for teaching or learning?
+Can you get reasonable advice on copyright when scanning materials?
+Collaboration
+
+Can you create an email distribution list? Do you need to get permission? How long does it take?
+Can you set up a project blog? Can you change the look or template of the blog? Can you give others accounts? Can you get training or support for a project blog?
+Can you get access to a wiki or have one set up for you? Can you authorize others (including people at other universities) so they can edit pages?
+Can you videoconference with colleagues at other universities? Are conferencing tools like Skype supported or blocked? Can you set up a phone conference easily? Can you organize a videoconference to bring in an external researcher to regular research meetings?
+Web Services
+
+Can you set up a web site? Will they give you space on a web server? Does it have a sensible URL?
+Can you install software on a web server? Can you give access to a web account to a programmer so he/she can develop a web application?
+Will they give you a virtual machine if you need to set up a complex web service? Will your computing services support that virtual machine over time?
+Does your university provide a convenient backup service? Do they backup large web sites?
+Advanced Computing Support
+
+Are there specialists on campus who understand GIS, visualization, digital humanities, HPC, digitization, XML, multimedia or statistical tools?
+Can you easily get access to high-performance computing support if you need it? Is there someone in the HPC unit that understands humanities research or was it set up for a particular constituency?
+Are there large data displays available for visualization projects?
+Can you get access to GIS (Geospatial Information System) support?
+Are there small grants available that allow you start or prototype a digital project?
+Are there people who can help you hire technical staff for a project and/or help you manage technical staff?
+Research Governance
+
+Is there a committee that oversees or advises on research computing in your faculty and/or university? Can you find out who is on that committee easily (by searching the university web site?) Is there someone from the humanities on that committee or someone tasked with representing the humanities? Do they consult anyone on a regular basis?
+Does your university have a clear Intellectual Property policy that covers things like copyright on digital projects? Is there an IP unit that can help you negotiating rights? Does the policy and unit understand and support open source projects or projects using Creative Commons-type licenses? Will they help you commercialize a project or do they only support patentable research? Are they a help or a hindrance if you want to introduce Google ads on a web site? Are they cost-recovery?
+Does your department and faculty recognize digital research contributions in their evaluation processes? Are there any published guidelines on how computing research should be evaluated? Is there someone you can get help from?
+Data Access and Preservation with the Library
+
+Does your library have people who can help you find electronic texts and datasets? Do they have librarians who specialize in digital management who can advise on any aspect of a digital project?
+Can you make your project resources available through your library pages? Can your library advocate for your resource and encourage uptake?
+Are there people who can advise you on best practices in preservation and how to put together a data management plan?
+Is there a trusted digital repository where you can deposit research papers, presentations and data for preservation and access? Can you easily use this repository or do you have to seek permission for every deposit? Does the library seem committed to the long-term provision of the repository service?
+Does your university have an open-access policy? Does it support researchers depositing their research in accessible repositories?
+Computing Services
+
+Is there a front desk where you can take computing problems or requests for information on using computers for research? Do those at the front desk know about other computing units on campus?
+Can you get advice as to what computer to buy? Can you get help if your computer won’t start? Can you get your laptop serviced on campus?
+Is there training so you can understand how to use research computing tools and services?
+Is there someone who can advise you on what is the best use of digital tools and methods in your research? Can they explain this checklist to you?
+Can you get advice and budget support for putting together a grant with a significant digital component?
+Does your university provide site-license support for common research applications so that you can acquire the applications at an academic discount?
+Do you have an idea what this checklist is about and why it is important? Do others? What can you do about it? How can it be improved?
+
+- See more at: http://4humanities.org/check-it-out/#sthash.iEGhptf7.dpuf

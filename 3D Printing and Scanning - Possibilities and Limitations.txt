@@ -1,0 +1,90 @@
+#3D Printing and Scanning - Possibilities and Limitations
+#The Digital Cultures Lab at Douglas College
+#Tuesday, 26 May 2015 from 6:30 PM to 9:00 PM (PDT)
+#New Westminster, BC
+
+The second in our series about innovative ideas, technologies, and approaches tackles the emerging world of 3D printing. Directed mostly at novices, those with no experience working with 3D printers, or those who want to think about how 3D printers might shape the future, this workshop will take participants through the main conversations about 3D printing. While we won't have time to print individual projects, participants are encouraged to bring their ideas, questions, or prototypes and discuss their potential. In the end, the workshop will offer abroad overview of 3D printing and leaving participants will be well-equipped with information and context within which they might better understand how 3D printing might apply to them. As usual, there will be lots of time for networking and discussion.
+
+#Our Printers: 
+
+Afinia H480 (http://www.afinia.com/3d-printers/h480) (www.afinia.com)
+
+Afinia is a mid-range printer that retails for around $1300US. Includes its own software package and there is some software knowledge needed, but plenty of support and community connections. Used a lot in K-12 application as well as post-secondary. Prints using ABS or PLA plastic. 
+
+Printrbot Simple (http://printrbot.com/product-category/3d-printers/) (http://printrbot.com/)
+
+The Printrbot is a hacker's delight retailing for $399 - 599US, depending on what you do yourself. The printer in the Lab is out-of-date (we bought it last year!). While this printer was made from a laser cut wood kit, all the Printrbot printers are now made out of metal. The Printrbot is a great entry model and the company prioritizes the hacker ethos over ease of use. The software is open-source and most would suggest that there is a big software learning curve to get the machine working. Prints using PLA plastic only. 
+
+MakerBot Replicator (http://store.makerbot.com/replicator) (http://www.makerbot.com/)
+
+MakerBot is the best in class and retails for $2900US. By far the easiest to use, this printer comes with easy to use software, big community database, and support system. Can also print directly from a USB key and has onboard memory. That said, there are still issues with the printer's efficiency and effectiveness--we have gone through 4-5 extruders in less than a year with minimal printing pressure. Prints using PLA filament only.  
+
+####Our Scanner:
+
+MakerBot Digitizer (http://store.makerbot.com/digitizer)
+
+Aimed at those who want to digitize real-world objects rather than work from digital files, the scanner retails for $799US. Scanning a real-world object is finicky and slow, requiring a good deal of patience and persistence. It is more efficient to simply create the object in digital image software. 
+
+####Printing Resources and Software:
+
+With all the software and website options below, you take what you get. There are a number of examples of bad coding, designing, and execution. Everything is an experiment and there's no certainty that the object will print like the file preview suggests. As with most emerging technology, the expectations are far better than the actual results.
+
+Thingiverse (http://www.thingiverse.com) 
+
+MakerBot's community site for 3D print files and, for now, where the vast majority of our print files come from. The files are in .stl format and can be printed using any 3D printer software. The community supplies the files and the software converts them for printing on the machine. A great resource for getting the printer up and running. The site is dominated by trinkets and other replacement part files. The files available on Thingiverse are free, but MakerBot does offer a digital store where you can purchase printable object files.
+
+Instructables (http://www.instructables.com/)
+
+A great site for all manner of technological projects, including 3D printing. It will give you the files to make robots, 3D printer files, and other craft / design / prototype projects. Again, driven through community engagement. Most files are free, but there are some that charge a nominal fee. 
+
+Autodesk 123D (http://www.123dapp.com/create)
+
+Autodesk 123D is an open source software site for designing, manipulating, generating, and capturing 3D objects. The site also has community files available for downloading and the apps can be installed on your computer or phone. 
+
+Sketchup (http://www.sketchup.com/)
+
+A great set of software for the 3D design inclined. More geared toward the digital design itself rather than the printable object, Sketchup is still a great resource for playing with 3D designs and prints. 
+
+Autodesk (http://www.autodesk.com/) 
+
+Not to be confused with the software above, Autodesk is the leader in professional 3D design software. A license costs around $140-160US a month. 
+
+####Other Information:
+
+PLA Filament is made of polylactic acid (PLA), which is a biodegradable thermoplastic aliphatic polyester derived from renewable resources such as corn starch.
+
+ABS Filament is acrylonitrile butadiene styrene (ABS) and is a common thermoplastic polymer. This plastic is stronger, produces a shined finish but also produces potentially toxic fumes. Use ABS only in well-ventilated areas and avoid directly inhaling the off-gasses. 
+
+Printing times vary, but most print jobs take around 3-6 hours with bigger objects taking as long as 24 hours. 
+
+A roll of filament costs around $35-50 and makes about 20 medium-sized (15cms x 15cms x 15cms) objects. Like the inks in your computer printers, the filament usage varies considerably depending on the quality, resolution, and size of your print. 
+
+What do you need to get started in 3D printing? 
+
+1) Time, lots and lots of spare time; 2) A little bit of money; 3) computer savvy or a willingness to hack. 
+
+
+The Plan for the Session:
+
+6:40 - Get started, introduce ourselves and have them introduce each other. Little bit about why they are here.
+
+6:50 - Brief overview of the Lab and what we are doing 
+	- emerging technology
+	- debunking myths
+	- opportunities of experimentation
+	- thinking about the socio-cultural impact of 3D printing
+	- examining the communities of 3D printing technology and tech in general
+
+7:00 - Hand out the overview and go through that with them - speak to the issues and paradoxes as they come up in the sheet (MOVE INTO THE LAB?)
+
+7:15 - Go through the start procedure for the Scanner (CORA), the Afinia (DAVE) and the MakerBot (CORA)
+
+7:30 - Open the floor to questions, let them browse around and examine
+
+7:45 - Thanks all for coming! We are doing another workshop in 3 Weeks!
+
+(HAND OUT CUE CARDS FOR COMMENTS - LET US KNOW WHAT YOU WANT)
+
+
+
+ 
